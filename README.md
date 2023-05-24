@@ -26,6 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
 ## Installation
 
 ```bash
@@ -57,6 +58,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## postman collection link
+https://app.getpostman.com/join-team?invite_code=5f17934ae54b6f66e4313213b2efc6f4&target_code=2b1f938b197b500aa27e68ac38e8d17d
 
 ## Support
 
